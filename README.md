@@ -8,12 +8,20 @@ and all code in `src` is available under an MIT license (see the `LICENSE.txt` f
 ## About Python
 
 - A little history
-- Python 2 or 3?
+- Python 2 or 3?  (choose 3 if you can).
 - Runs: Windows, Mac OS, Linux
-- Community
+- Community (forums, email lists, meetups, conferences, and more)
 - Check out [python.org](https://www.python.org/)
 
 ## Programming Environment
+
+There are several ways you can use python. Any of these are acceptable for this
+workshop:
+
+1. [Download python](https://www.python.org/downloads/) for your system (if you've
+   got Mac OS or Linux, you may already have python!).
+2. Log in to a remote system and type `python` (e.g. if you have access to a Linux server).
+3. Use an [Azure Notebook](https://notebooks.azure.com/) (login with your microsoft account).
 
 - The command line
 - Virtual Environments
