@@ -58,7 +58,7 @@ There's lots of neat data sets at [catalog.data.gov](https://catalog.data.gov/da
 Interesting data sets include:
 
 - (~4Mb) [US Electirc Utility Rates](https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-feb-2011-57a7c)
-- (~356Mb) [Traffic Violations](https://catalog.data.gov/dataset/traffic-violations-56dda)
+- (~356Mb) [Traffic Violations](https://catalog.data.gov/dataset/traffic-violations-56dda). There's a 1000-record subset of this data set in the `data` directory.
 
 Or you can go find your own! (See an examlpe of how I [analyzed the St.Jude Memphis marathon](https://github.com/bradmontgomery/st-jude-marathon/)).
 
@@ -68,6 +68,10 @@ Or you can go find your own! (See an examlpe of how I [analyzed the St.Jude Memp
 We'll grab some some data from iTunes.
 
 
-## additional resources
+## Additional resources
 
-tbd
+The following are books or other resources that I like (and would recommend)!
+
+- [Think Python](http://greenteapress.com/wp/think-python/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- The official [Python Tutorial](https://docs.python.org/3/tutorial/)
