@@ -2,7 +2,8 @@ Intro to Python Workshop
 ------------------------
 
 This a rough outline for the MEMpy + FIT "Intro to Python Workshop", held on
-Jan 23, 2017.
+Jan 23, 2017.  Data found in `data` came from [catalog.data.gov](https://catalog.data.gov/),
+and all code in `src` is available under an MIT license (see the `LICENSE.txt` file).
 
 ## About Python
 
