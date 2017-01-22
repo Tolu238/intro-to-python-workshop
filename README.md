@@ -5,6 +5,7 @@ This a rough outline for the MEMpy + FIT "Intro to Python Workshop", held on
 Jan 23, 2017.  Data found in `data` came from [catalog.data.gov](https://catalog.data.gov/),
 and all code in `src` is available under an MIT license (see the `LICENSE.txt` file).
 
+
 ## About Python
 
 - A little history
@@ -22,6 +23,7 @@ workshop:
    got Mac OS or Linux, you may already have python!).
 2. Log in to a remote system and type `python` (e.g. if you have access to a Linux server).
 3. Use an [Azure Notebook](https://notebooks.azure.com/) (login with your microsoft account).
+4. You may access a temporary notebook at [notebook.brad.tips](http://notebook.brad.tips).
 
 - The command line
 - Virtual Environments
